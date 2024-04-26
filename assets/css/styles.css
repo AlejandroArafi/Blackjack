@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background-color: green;
+    background-color: #2F4F30;
     color: white;
 }
 
@@ -14,6 +14,8 @@ html, body {
 }
 
 .carta {
+    position: relative;
+    left: 100px;
    width: 150px;
    margin-left: -75px;
    position: relative;
